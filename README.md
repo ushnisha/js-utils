@@ -26,7 +26,7 @@ js-utils is a set of javascript utilities for use in other projects
 ## License & Copyright:
 
 js-utils is provided under AGPLv3 license.
-Copyright (C) 2020 Arun Kunchithapatham
+Copyright (C) 2020-2024 Arun Kunchithapatham
 
 ## Feedback:
 

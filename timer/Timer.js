@@ -1,7 +1,7 @@
 /*
  *  Timer is javascript code that provides a simple start/pause/resume/stop
  *  timer functionality.
- *  Copyright (C) 2020 Arun Kunchithapatham
+ *  Copyright (C) 2020-2024 Arun Kunchithapatham
  *
  *  This file is part of js-utils
  *
